@@ -7,3 +7,5 @@
 [3. Основы UIKit, повторение](https://github.com/AZigangaraev/ITIS_2020_103)
 
 [4. Навигация, UINavigationController, UITabBarController](https://github.com/AZigangaraev/ITIS_2020_104)
+
+[5. Auto Layout, UIStackView, NotificationCenter](https://github.com/AZigangaraev/ITIS_2020_105)
