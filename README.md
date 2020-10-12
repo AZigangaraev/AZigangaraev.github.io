@@ -9,3 +9,5 @@
 [4. Навигация, UINavigationController, UITabBarController](https://github.com/AZigangaraev/ITIS_2020_104)
 
 [5. Auto Layout, UIStackView, NotificationCenter](https://github.com/AZigangaraev/ITIS_2020_105)
+
+[6. Контрольная работа](https://github.com/AZigangaraev/ITIS_2020_106)
