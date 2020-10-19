@@ -11,3 +11,5 @@
 [5. Auto Layout, UIStackView, NotificationCenter](https://github.com/AZigangaraev/ITIS_2020_105)
 
 [6. Контрольная работа](https://github.com/AZigangaraev/ITIS_2020_106)
+
+[7. UITableView basics](https://github.com/AZigangaraev/ITIS_2020_107)
