@@ -17,3 +17,5 @@
 [8. Autolayout в Table View, UIScrollView, UICollectionView intro](https://github.com/AZigangaraev/ITIS_2020_108)
 
 [10. Concurrency, Grand Central Dispatch](https://github.com/AZigangaraev/ITIS_2020_110)
+
+[11. Контрольная работа 2](https://github.com/AZigangaraev/ITIS_2020_111)
