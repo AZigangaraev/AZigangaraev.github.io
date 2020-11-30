@@ -21,3 +21,5 @@
 [11. Контрольная работа 2](https://github.com/AZigangaraev/ITIS_2020_111)
 
 [12. URLSession](https://github.com/AZigangaraev/ITIS_2020_112)
+
+[13. Codable. Rest](https://github.com/AZigangaraev/ITIS_2020_113)
