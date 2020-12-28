@@ -27,3 +27,5 @@
 [14. UserDefaults, FileManager](https://github.com/AZigangaraev/ITIS_2020_114)
 
 [15. Core Data, part 1](https://github.com/AZigangaraev/ITIS_2020_115)
+
+[16. Core Data, part 2](https://github.com/AZigangaraev/ITIS_2020_116)
