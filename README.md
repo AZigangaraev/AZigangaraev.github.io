@@ -29,3 +29,5 @@
 [15. Core Data, part 1](https://github.com/AZigangaraev/ITIS_2020_115)
 
 [16. Core Data, part 2](https://github.com/AZigangaraev/ITIS_2020_116)
+
+[17. MVC/MVP/MVVM; Service Layer, DI](https://github.com/AZigangaraev/ITIS_2020_201)
