@@ -10,7 +10,7 @@
 
 [5. Auto Layout, UIStackView, NotificationCenter](https://github.com/AZigangaraev/ITIS_2020_105)
 
-[6. Контрольная работа](https://github.com/AZigangaraev/ITIS_2020_106)
+[6. Контрольная работа 1 (1 семестр)](https://github.com/AZigangaraev/ITIS_2020_106)
 
 [7. UITableView basics](https://github.com/AZigangaraev/ITIS_2020_107)
 
@@ -18,7 +18,7 @@
 
 [10. Concurrency, Grand Central Dispatch](https://github.com/AZigangaraev/ITIS_2020_110)
 
-[11. Контрольная работа 2](https://github.com/AZigangaraev/ITIS_2020_111)
+[11. Контрольная работа 2 (1 семестр)](https://github.com/AZigangaraev/ITIS_2020_111)
 
 [12. URLSession](https://github.com/AZigangaraev/ITIS_2020_112)
 
@@ -30,4 +30,6 @@
 
 [16. Core Data, part 2](https://github.com/AZigangaraev/ITIS_2020_116)
 
-[17-18. MVC/MVP/MVVM; Service Layer, DI](https://github.com/AZigangaraev/ITIS_2020_201)
+[17-18. MVC/MVP/MVVM; Service Layer, DI](https://github.com/AZigangaraev/ITIS_2020_201), [Классная работа](https://github.com/AZigangaraev/ITIS_2020_202)
+
+[19. Контрольная работа 1 (2 семестр)](https://github.com/AZigangaraev/ITIS_2020_2_CW_1)
