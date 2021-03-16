@@ -33,3 +33,5 @@
 [17-18. MVC/MVP/MVVM; Service Layer, DI](https://github.com/AZigangaraev/ITIS_2020_201), [Классная работа](https://github.com/AZigangaraev/ITIS_2020_202)
 
 [19. Контрольная работа 1 (2 семестр)](https://github.com/AZigangaraev/ITIS_2020_2_CW_1)
+
+[20. Core Graphics, Core Animation](https://github.com/AZigangaraev/ITIS_2020_203)
