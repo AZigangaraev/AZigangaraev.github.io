@@ -35,3 +35,5 @@
 [19. Контрольная работа 1 (2 семестр)](https://github.com/AZigangaraev/ITIS_2020_2_CW_1)
 
 [20. Core Graphics, Core Animation](https://github.com/AZigangaraev/ITIS_2020_203)
+
+[21. Gesture Recognizers](https://github.com/AZigangaraev/ITIS_2020_204)
