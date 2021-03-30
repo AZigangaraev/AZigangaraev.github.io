@@ -37,3 +37,5 @@
 [20. Core Graphics, Core Animation](https://github.com/AZigangaraev/ITIS_2020_203)
 
 [21. Gesture Recognizers](https://github.com/AZigangaraev/ITIS_2020_204)
+
+[22. Generics, Collections, Memory Layout](https://github.com/AZigangaraev/ITIS_2020_205)
