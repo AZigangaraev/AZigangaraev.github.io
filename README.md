@@ -39,3 +39,5 @@
 [21. Gesture Recognizers](https://github.com/AZigangaraev/ITIS_2020_204)
 
 [22. Generics, Collections, Memory Layout](https://github.com/AZigangaraev/ITIS_2020_205)
+
+[23. Контрольная работа 2 (2 семестр)](https://github.com/AZigangaraev/ITIS_2020_2_CW_2)
