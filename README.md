@@ -41,3 +41,5 @@
 [22. Generics, Collections, Memory Layout](https://github.com/AZigangaraev/ITIS_2020_205)
 
 [23. Контрольная работа 2 (2 семестр)](https://github.com/AZigangaraev/ITIS_2020_2_CW_2)
+
+[24. Push notifications, deep links](https://github.com/AZigangaraev/ITIS_2020_206)
