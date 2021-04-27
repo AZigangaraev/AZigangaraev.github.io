@@ -43,3 +43,7 @@
 [23. Контрольная работа 2 (2 семестр)](https://github.com/AZigangaraev/ITIS_2020_2_CW_2)
 
 [24. Push notifications, deep links](https://github.com/AZigangaraev/ITIS_2020_206)
+
+[25. Получение изображений и геопозиции девайса](https://github.com/AZigangaraev/ITIS_2020_207)
+
+[26. Tests](https://github.com/AZigangaraev/ITIS_2020_208)
