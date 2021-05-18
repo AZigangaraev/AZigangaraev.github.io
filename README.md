@@ -51,3 +51,5 @@
 [27. SwiftUI introduction](https://github.com/AZigangaraev/ITIS_2020_209)
 
 [28. Немного повторения](https://github.com/AZigangaraev/ITIS_2020_210)
+
+[29. UICollectionViewCompositionalLayout](https://github.com/AZigangaraev/ITIS_2020_211)
